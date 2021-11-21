@@ -18,6 +18,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/weeb_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    weeb_surya-user \
     weeb_surya-userdebug \
     weeb_surya-eng
